@@ -1,0 +1,60 @@
+/*
+- *ID Selector* (e.g. *#content*)
+- *Class Selector*
+- *Descendant Selector* for the dynamically created Boston College facts (paragraphs)
+- Custom *Hover-Effect* for hyperlinks
+- *Padding* and *Margin* properties
+- *Color* or *Background-Color* properties
+*/
+
+
+#generate {
+    color: goldenrod;
+  }
+
+
+.button {
+    text-align: center;
+    background-color: maroon;
+    width: 300px;
+    margin: 10px;
+}
+
+#content {
+    color: black;
+    margin: 10px;
+}
+
+p {
+    background-color: whitesmoke;
+    color: darkslategray;
+    padding: 10px; 
+    border: 1px solid lightgray;
+    border-radius: 8px;
+}
+
+a {
+    text-align: right;
+}
+
+a:hover {
+    color: purple;
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 8px;
+    margin: 10px;
+    width: 500px;
+    max-width: 100%;
+    float: right;
+  }
+
+h1 {
+    margin: 10px;
+}
+
+.column {
+    text-align: left;
+}
+
