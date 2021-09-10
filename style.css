@@ -35,6 +35,7 @@ p {
 
 a {
     text-align: right;
+    margin: 20px;
 }
 
 a:hover {
